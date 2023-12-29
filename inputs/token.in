@@ -5,7 +5,7 @@ amount: u64 = 100u64;
 
 [mint_private]
 receiver: address = aleo1j808l26d6wqpagyy9ruqcp527q3s4kuf8me80z4mm7dfc30rkvrsz3sn9l;
-amount: u64 = 100u64;
+amount: u64 = 50u64;
 
 [transfer_public]
 receiver: address = aleo1mgfq6g40l6zkhsm063n3uhr43qk5e0zsua5aszeq5080dsvlcvxsn0rrau;
